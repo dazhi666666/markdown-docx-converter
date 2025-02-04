@@ -20,3 +20,25 @@
   - 易于添加对其他 Markdown 功能的支持（如链接、表格、代码块）。
 
 ---
+
+# Markdown to DOCX Converter
+
+A Python tool to convert Markdown-formatted text in a `.docx` file into a properly formatted Word document.
+
+---
+
+## Features
+- **Markdown Syntax Support**:
+  - Headers (`#`, `##`, `###`, etc.)
+  - Bold (`**text**`)
+  - Italic (`*text*`)
+  - Lists (`* `, `- `)
+- **Customizable Styles**:
+  - Headings (Levels 1-6)
+  - Bullet points
+  - Basic text formatting (bold, italic)
+- **Extensible**:
+  - Easy to add support for additional Markdown features (e.g., links, tables, code blocks).
+
+---
+
